@@ -1,1 +1,1 @@
-# -static-recipe-blog-nextjs
+# static-recipe-blog-nextjs
